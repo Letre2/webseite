@@ -1,0 +1,89 @@
+
+name = "Tobias Ertel"
+anguageCode = "en-us"
+title = "Interaction Design by Tobias Ertel"
+baseURL = ""
+theme = "hugo-html5up-alpha-master"
+disqusShortname = "Tobias Ertel"
+
+
+
+[params]
+  description = "Interaction Design by Tobias Ertel"
+  images = ["images/pic01.jpg"]
+  author = "[Impressum](https://nelsonroberto.com/)"
+  copyright = "© Tobias Ertel. All rights reserved."
+  design = "Design by Tobias Ertel"
+  mainSections = ["blog"]
+  custom_js = ["js/custom.js"]
+
+
+
+# ## Footer Social Media Links ###
+# [[params.share]]
+# title = "facebook"
+# icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
+# link = "https://www.facebook.com/"
+
+[[params.share]]
+title = "twitter"
+icon = "fa-twitter"
+link = "https://twitter.com/"
+
+[[params.share]]
+title = "linkedin"
+icon = "fa-linkedin"
+link = "https://www.linkedin.com"
+
+### For Pages the .RelPermalink must match the menu .URL
+### For sections the name/directory must match the menu .Identifier
+[menu]
+  [[menu.main]]
+    identifier = "generic"
+    name = "Generic"
+    url = "/generic/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/form-contact/"
+    weight = 20
+  [[menu.main]]
+    identifier = "elements"
+    name = "Elements"
+    url = "/elements/"
+    weight = 30
+  # [[menu.main]]
+  #   identifier = "blog"
+  #   name = "Blog"
+  #   url = "/blog/"
+  #   weight = 40
+  # [[menu.main]]
+  #   identifier = "submenu"
+  #   name = "Submenu"
+  #   url = "#"
+  #   weight = 50
+  # [[menu.main]]
+  #   parent = "submenu"
+  #   identifier = "one"
+  #   name = "Option One"
+  #   url = "#"
+  #   weight = 51
+  # [[menu.main]]
+  #   parent = "submenu"
+  #   identifier = "two"
+  #   name = "Option Two"
+  #   url = "#"
+  #   weight = 52
+  # [[menu.main]]
+  #   parent = "submenu"
+  #   identifier = "three"
+  #   name = "Option Three"
+  #   url = "#"
+  #   weight = 53
+  # [[menu.main]]
+  #   parent = "submenu"
+  #   identifier = "four"
+  #   name = "Option Four"
+  #   url = "#"
+  #   weight = 54
