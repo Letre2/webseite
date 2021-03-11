@@ -877,10 +877,10 @@ $box-padding: 3em;
     //Profilbild
     &.accent1 {
       background: _palette(accent1, bg);
-      // background-image: url(images/tobias_ertel.png);
-      // background-repeat: no-repeat;
-      // background-position: center;
-      // background-size: 90px, 90px;
+      background-image: url(images/tobias_ertel.png);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 90px, 90px;
       color: _palette(accent1, fg-bold);
     }
 
