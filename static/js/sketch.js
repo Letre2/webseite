@@ -23,20 +23,20 @@ function draw() {
     noFill();
     //textDraw();
     beginShape();
-    let noiseMax = 1.2; // noise value
+    let noiseMax = 0.8; // noise value
   
     for (let a = 0; a < TWO_PI; a += radians(2)) {
       clear();
       let xoff = map(cos(a + phase), -1, 1, 0, noiseMax);
       let yoff = map(sin(a + phase), -1, 1, 0, noiseMax);
-      let r = map(noise(xoff, yoff, zoff), 0, 1, 100, height/7);
+      let r = map(noise(xoff, yoff, zoff), 0, 1, 100, height/8);
       let x = r*1.5 * cos(a);
       let y = r*1.5 * sin(a);
       vertex(x, y);
     }
     endShape(CLOSE);
     phase += -0.003; //rotation
-    zoff += 0.005; // speed of noise
+    zoff += 0.002; // speed of noise
   }
 
 }else{
