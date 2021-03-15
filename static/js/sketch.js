@@ -49,7 +49,7 @@ function draw() {
     noFill();
     //textDraw();
     beginShape();
-    let noiseMax = 1.3; // noise value
+    let noiseMax = 1.4; // noise value
   
     for (let a = 0; a < TWO_PI; a += radians(2)) {
       clear();
@@ -61,8 +61,8 @@ function draw() {
       vertex(x, y);
     }
     endShape(CLOSE);
-    phase += -0.002; //rotation
-    zoff += 0.003; // speed of noise
+    phase += -0.004; //rotation
+    zoff += 0.004; // speed of noise
   }
 
 }
