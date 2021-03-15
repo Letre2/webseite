@@ -10,11 +10,11 @@
     <span class="image featured"><img src="{{ . }}" alt="" /></span>
     {{ end }}
     {{ .Content }}
-    {{ partial "tags" . }}
+    <!-- {{ partial "tags" . }} -->
   </div>
   {{ if .Site.DisqusShortname }}
-  <div class="box">
-    {{ template "_internal/disqus.html" . }}
-  </div>
+  <!-- <div class="box">
+    <!-- {{ template "_internal/disqus.html" . }} -->
+  </div> -->
   {{ end }}
 {{ end }}

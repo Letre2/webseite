@@ -2,6 +2,7 @@
 title = 'Page Bundle Example'
 slug = 'page-bundle-example'
 date = "2019-08-15T00:00:00"
+image = 'images/pic05.jpg'
 description = 'Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.'
 disqus_identifier = '9'
 tags = ["tag1","tag2"]
