@@ -4,7 +4,7 @@ description = "Donec eget ex magna. Interdum et malesuada fames ac ante ipsum pr
 disableComments = true
 image = "images/pic02.jpg"
 slug = "post"
-title = "first post"
+title = "test"
 
 +++
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet dui nec dui commodo auctor non eu mauris. Duis varius finibus vestibulum. Praesent aliquam, erat sed dictum feugiat, velit erat iaculis elit, eget iaculis ex libero ac sapien. Sed maximus ut lectus et varius. Nullam posuere velit vitae est consectetur porttitor. Vestibulum tempor felis ante, nec volutpat risus vestibulum ac. Mauris at finibus felis, eu placerat arcu. Sed nec semper nunc. Proin eget mollis felis. Donec fermentum lectus non metus elementum, dignissim ornare felis congue. In rhoncus vehicula nibh, ac imperdiet dolor tincidunt sit amet.
