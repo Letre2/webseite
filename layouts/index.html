@@ -8,12 +8,10 @@
       {{- partial "header.html" . -}}
 
       <!-- Banner -->
-
       <section id="banner">
         {{ if .Site.Data.homepage.banner.enable }} {{ with
         .Site.Data.homepage.banner }}
-        
-        <div id="canvasDiv">
+        <div id="canvasDiv">          
       </div>
 
       <div id="TE">
@@ -21,9 +19,16 @@
         <!-- <h2>{{ .title }}</h2>
         <h2>{{ .title2 }}</h2> -->
       </div>
-          <h3>{{ with .content }}{{ . }}{{else}}{{ $.Site.Params.description
+      
+      <h3>{{ with .content }}{{ . }}{{else}}{{ $.Site.Params.description
           }}{{end}}</h3>
-        
+      
+          <div class="arrow">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          
         <ul class="actions special">
           {{ range .buttons }}
           <li>
@@ -32,12 +37,7 @@
           {{ end }}
         </ul>
         {{ end }} {{ end }}
-        <div class="arrow">
-          <span></span>
-          <span></span>
-          <span></span>
-
-        </div>
+        
       </section>
 
       <!-- Main -->

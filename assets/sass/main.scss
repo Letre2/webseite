@@ -14,7 +14,7 @@
 */
 
 // BannerURL
-$bannerURL: "{{ (.Site.Data.homepage.banner.image | default "images/banner.jpg") }}";
+$bannerURL: "images/banner.jpg";
 
 
 // Breakpoints.
@@ -1580,21 +1580,7 @@ body.landing {
       
     }
  }
- 
- @media only screen and (max-width: 1920px) {
-    
- }
-  
-  //INTERACTION DESIGN BY TOBIAS ERTEL STYLE BANNER 
 
-  h3 {
-    font-size: 1.5em;
-    letter-spacing: 0.02em;
-    line-height: 1em;
-    margin-top: 8em;
-    margin-bottom: -8em;
-    padding: 0;
-  }
   
   #canvasDiv {
     background-image: url(images/TE.png);
@@ -1602,14 +1588,6 @@ body.landing {
     background-size: 150px;
     background-position-x: center;
     background-position-y: center;
-    //margin: auto;
-
-    // display: flex;
-    // position: absolute;
-    // align-items: center;
-    // transform: translateY(-50%);
-    //margin-top: 1em;
-    //top: 50%;
     z-index: -1;
   }
 
@@ -1643,22 +1621,6 @@ body.landing {
 
 // ARROW PFEIL
 
-
-.arrow{
-  position: absolute;
-  top: 95%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-}
-
-@media only screen and (max-width: 1150px) {
-  .arrow{
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-  }
-}
 
 .arrow span{
   display: block;
@@ -1853,8 +1815,22 @@ body.landing {
 
   #banner {
     //padding: 25em 0 25em 0;
-    padding: 13%;
+    padding: 15%;
+    
+    h3 {
+      position:relative;
+      display: absolute;
+      margin: 0 auto;
+      top: 3em;
+    }
 
+    .arrow{
+      display: absolute;
+      position: relative;
+      margin: 0 auto;
+      width: 0%;
+      top: 9em;  
+    }
     
   }
 }
@@ -1883,12 +1859,28 @@ body.landing {
 
   #banner {
     background-attachment: scroll;
-    padding: 9%;
-    
+    padding: 11.5%;
+
     h2 {
       font-size: 3.5em;
       margin: top
     }
+
+    h3 {
+      position:relative;
+      display: absolute;
+      margin: 0 auto;
+      top: 1em;
+    }
+
+    .arrow{
+      display: absolute;
+      position: relative;
+      margin: 0 auto;
+      width: 0%;
+      top: 5em;  
+    }
+
   }
 }
 
@@ -1995,8 +1987,25 @@ body.landing {
 
   #banner {
     padding: 9%;
+
+    h3 {
+      position:relative;
+      display: absolute;
+      margin: 0 auto;
+      top: 0em;
+    }
+
+    .arrow{
+      display: absolute;
+      position: relative;
+      margin: 0 auto;
+      width: 0%;
+      top: 2em;  
+    }
+
   }
 
+  
   
   /* Nav */
 
@@ -2217,59 +2226,38 @@ body.landing {
 
 
   #banner {
-    padding: 4em 0;
-    
-    .arrow{
-      position: absolute;
-      top: 35%;
-      left: 50%;
-      transform: translate(-20%,-20%);
-    }
-
-    .arrow span{
-      display: block;
-      width: 8px;
-      height: 8px;
-      border-bottom: 2px solid #6f7691bd;
-      border-right: 2px solid #6f7691bd;
-      transform: rotate(45deg);
-      margin: -10px;
-      animation: animate 4s infinite;
-    }
+    background-attachment: scroll;
+    padding: 11.5%;
 
     h2 {
-      font-size: 2.25em;
+      font-size: 3.5em;
+      margin: top
     }
 
     h3 {
-      font-size: 1.5em;
-      letter-spacing: 0.02em;
-      line-height: 1em;
-      margin-top: 2em;
-      margin-bottom: -2em;
-      padding: 0;
+      position:relative;
+      display: absolute;
+      margin: 0 auto;
+      top: -1em;
     }
 
-    p {
-      font-size: 1.25em;
+    .arrow{
+      display: absolute;
+      position: relative;
+      margin: 0 auto;
+      width: 0%;
+      top: 1em;  
     }
 
-     #canvasDiv {
-    background-image: url(images/TE.png);
-    background-repeat: no-repeat;
-    background-size: 150px;
-    background-position-x: center;
-    background-position-y: center;
-    //margin: auto;
+    #canvasDiv {
+      background-image: url(images/TE.png);
+      background-repeat: no-repeat;
+      background-size: 150px;
+      background-position-x: 50%;
+      background-position-y: center;
+      z-index: -1;
+    }
 
-    // display: flex;
-    // position: absolute;
-    // align-items: center;
-    // transform: translateY(-50%);
-    //margin-top: 1em;
-    //top: 50%;
-    z-index: -1;
-  }
   }
 
   /* Main */
@@ -2427,6 +2415,16 @@ body.landing {
 
   #banner {
     padding: 5em 3em 4em 3em;
+    
+    .p5Canvas{
+      width: 200px;
+      height: 200px;
+      position: relative;
+      display: block;
+      left: 50%;
+      transform: translateX(-50%);
+
+    }
   }
 
   /* Main */

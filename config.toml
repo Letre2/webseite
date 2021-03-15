@@ -38,21 +38,21 @@ link = "https://www.linkedin.com"
 ### For Pages the .RelPermalink must match the menu .URL
 ### For sections the name/directory must match the menu .Identifier
 [menu]
-  [[menu.main]]
-    identifier = "generic"
-    name = "Generic"
-    url = "/generic/"
-    weight = 10
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/form-contact/"
-    weight = 20
-  [[menu.main]]
-    identifier = "elements"
-    name = "Elements"
-    url = "/elements/"
-    weight = 30
+  # [[menu.main]]
+  #   identifier = "generic"
+  #   name = "Generic"
+  #   url = "/generic/"
+  #   weight = 10
+  # [[menu.main]]
+  #   identifier = "contact"
+  #   name = "Contact"
+  #   url = "/form-contact/"
+  #   weight = 20
+  # [[menu.main]]
+  #   identifier = "elements"
+  #   name = "Elements"
+  #   url = "/elements/"
+  #   weight = 30
   # [[menu.main]]
   #   identifier = "blog"
   #   name = "Blog"
