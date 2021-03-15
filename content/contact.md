@@ -2,16 +2,16 @@
 Title: "Impressum"
 slug : 'contact'
 description: "Tell us what you think about our little operation."
-date: "2019-02-06T00:00:00"
-tags: ["tag1","tag2"]
+# date: "2019-02-06T00:00:00"
+# tags: ["tag1","tag2"]
 ## Size param refers to the css class for the <section> tag
 ## Opions are: xsmall, small, medium, large, xlarge, max
 ## Default is 'auto'
-size: "medium"
-draft: true
+size: "large"
+draft: false
 ---
 
-German for English see below
+English version see below
 
 **Datenschutzerklärung**
 
@@ -21,15 +21,15 @@ German for English see below
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Tobias Ertel
-Uhlandstr. 02
-73525 Schwäbisch Gmünd - Germany 
+Tobias Ertel  
+Uhlandstr. 02  
+73525 Schwäbisch Gmünd - Germany   
 
-Kontakt:
-Telefon: 015771987246
-Email: mail@tobias-ertel.de
+Kontakt:  
+Telefon: 015771987246  
+Email: mail@tobias-ertel.de  
 
-Vertreten durch:
+Vertreten durch:  
 Tobias Ertel
 
 Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).
@@ -189,8 +189,6 @@ Durch den Einsatz dieser Web Fonts wird es möglich Ihnen die von uns gewünscht
 Das Unternehmen Google ist für das us-europäische Datenschutzübereinkommen "Privacy Shield" zertifiziert. Dieses Datenschutzübereinkommen soll die Einhaltung des in der EU geltenden Datenschutzniveaus gewährleisten.
 
 Einzelheiten über Google Web Fonts finden Sie unter: https://www.google.com/fonts#AboutPlace:about und weitere Informationen in den Datenschutzbestimmungen von Google: https://policies.google.com/privacy/partners?hl=de
-
-
 
 
 

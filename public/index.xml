@@ -125,6 +125,29 @@
     </item>
     
     <item>
+      <title>Impressum</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>English version see below
+Datenschutzerklärung
+Allgemeiner Hinweis und Pflichtinformationen
+Benennung der verantwortlichen Stelle
+Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
+Tobias Ertel
+Uhlandstr. 02
+73525 Schwäbisch Gmünd - Germany
+Kontakt:
+Telefon: 015771987246
+Email: mail@tobias-ertel.de
+Vertreten durch:
+Tobias Ertel
+Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).
+Widerruf Ihrer Einwilligung zur Datenverarbeitung</description>
+    </item>
+    
+    <item>
       <title>Primis eget imperdiet lorem</title>
       <link>/blog/post1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
