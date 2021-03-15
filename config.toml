@@ -11,7 +11,7 @@ disqusShortname = "Tobias Ertel"
 [params]
   description = "Interaction Design by Tobias Ertel"
   images = ["images/pic01.jpg"]
-  author = "[Impressum](/contact)"
+  author = "[Impressum - DSGVO](/contact)"
   copyright = "© Tobias Ertel. All rights reserved."
   design = "Design by Tobias Ertel"
   mainSections = ["blog"]
