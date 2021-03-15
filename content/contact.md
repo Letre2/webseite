@@ -1,5 +1,5 @@
 ---
-Title: "Contact"
+Title: "Impressum"
 slug : 'contact'
 description: "Tell us what you think about our little operation."
 date: "2019-02-06T00:00:00"
@@ -194,7 +194,7 @@ Einzelheiten über Google Web Fonts finden Sie unter: https://www.google.com/fon
 
 
 
-##English Version
+**English Version**
 
 
 **Privacy Policy**
