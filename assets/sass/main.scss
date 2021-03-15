@@ -76,7 +76,6 @@ code,
 del,
 dfn,
 em,
-img,
 ins,
 kbd,
 q,
@@ -1313,7 +1312,7 @@ body.landing {
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 10000;
+  z-index: 1;
 
   h1 {
     color: inherit;
@@ -1542,7 +1541,7 @@ body.landing {
   background-repeat: repeat, no-repeat;
   background-size: cover;
   color: #fff;
-  padding: 2em 0 20em 0;
+  padding: 2em 0 1em 0;
   text-align: center;
 
   :last-child {
@@ -1578,15 +1577,12 @@ body.landing {
       font-size: 3.5em;
       line-height: 1em;
       padding-top: 1%;
+      
     }
  }
  
  @media only screen and (max-width: 1920px) {
-    h2{
-      font-size: 3.5em;
-      line-height: 1em;
-      padding-top: 1%;
-    }
+    
  }
   
   //INTERACTION DESIGN BY TOBIAS ERTEL STYLE BANNER 
@@ -1601,14 +1597,20 @@ body.landing {
   }
   
   #canvasDiv {
-    width: 100%;
-    height: 100%;
-    display: absolute;
-    position: absolute;
-    align-content: center;
-    top: 10em;
-    left: 0%;
-    //z-index: -9999;
+    background-image: url(images/TE.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position-x: center;
+    background-position-y: center;
+    //margin: auto;
+
+    // display: flex;
+    // position: absolute;
+    // align-items: center;
+    // transform: translateY(-50%);
+    //margin-top: 1em;
+    //top: 50%;
+    z-index: -1;
   }
 
   p {
@@ -1851,7 +1853,9 @@ body.landing {
 
   #banner {
     //padding: 25em 0 25em 0;
-    padding: 23%;
+    padding: 13%;
+
+    
   }
 }
 
@@ -1879,10 +1883,11 @@ body.landing {
 
   #banner {
     background-attachment: scroll;
-
+    padding: 9%;
+    
     h2 {
       font-size: 3.5em;
-      margin: 0 0 -0.5em 0;
+      margin: top
     }
   }
 }
@@ -1988,10 +1993,11 @@ body.landing {
 
   /* Banner */
 
-  // #banner {
-  //   //padding: 6em 2em;
-  // }
+  #banner {
+    padding: 9%;
+  }
 
+  
   /* Nav */
 
   #page-wrapper {
@@ -2247,6 +2253,23 @@ body.landing {
     p {
       font-size: 1.25em;
     }
+
+     #canvasDiv {
+    background-image: url(images/TE.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position-x: center;
+    background-position-y: center;
+    //margin: auto;
+
+    // display: flex;
+    // position: absolute;
+    // align-items: center;
+    // transform: translateY(-50%);
+    //margin-top: 1em;
+    //top: 50%;
+    z-index: -1;
+  }
   }
 
   /* Main */

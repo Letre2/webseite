@@ -6,10 +6,13 @@ let slider;
 let lato;
 
 function setup() {
-
+  let bannerHeight = document.querySelector("#banner").offsetHeight;
+  let bannerWidth = document.querySelector("#banner").offsetWidth;
   myCanvas = createCanvas(400, 400);
   myCanvas.parent('canvasDiv');
-  //myCanvas.position(window.innerWidth/2-200, window.innerHeight/2-180);
+  //myCanvas.position(bannerWidth/2, bannerHeight, "relative");
+  //myCanvas.position(bannerWidth, bannerHeight, "initial");
+  //resizeCanvas(bannerWidth, bannerHeight);
 
   //slider = createSlider(0, 10, 3, 0.1);
   // textFont(lato);
@@ -17,11 +20,9 @@ function setup() {
   // textAlign(CENTER, CENTER);
   // //fill(0, 0, 0);
   //console.log(document.querySelector("#banner").offsetHeight);
-  var bannerHeight = document.querySelector("#banner").offsetHeight/2;
-
-
+  
 //   var dwidth = jQuery(window).width();
-//   var dheight = jQuery(window).height();
+//   var dheight = bannerHeight;
 // jQuery(window).bind('resize', function(e){
 //     var wwidth = jQuery(window).width();
 //     var wheight = bannerHeight;
@@ -36,7 +37,6 @@ function setup() {
 // });
 
 
-//resizeCanvas(windowWidth/2, bannerHeight);
     console.log("hallo");
 
   
@@ -48,9 +48,7 @@ function textDraw(xoff, yoff) {
   //fill(100);
 }
 
-if (window.innerWidth < 735) {
- 
-} else {
+
 
   function draw() {
     //background(0);
@@ -81,4 +79,4 @@ if (window.innerWidth < 735) {
     zoff += 0.005; // speed of noise
   }
 
-}
+
