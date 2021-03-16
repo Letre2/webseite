@@ -87,3 +87,10 @@ link = "https://www.linkedin.com"
   #   name = "Option Four"
   #   url = "#"
   #   weight = 54
+
+  [markup]
+  [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
