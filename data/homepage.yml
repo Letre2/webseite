@@ -34,10 +34,10 @@ features:
           icon: "fa-info"
           icon2: "fa-twitter"
           accent: "accent3" #accent values are 1-8
-          content: "- Born in 1990 <br />
-                    - Trained as photographer by Mierswa-Kluska Munic <br />
-                    - Worked as a commercial Photographer several Year untill Corona<br />
-                    - Studies Interaction Design <a href='https://www.hfg-gmuend.de/' target='_blank'>@HfG Schwäbisch Gmünd</a>"
+          content: "2011 &ndash; 2013: Trained as photographer by Mierswa-Kluska Munic <br />
+                    2013 &ndash; 2014: Traveling on the countryway to India<br />
+                    2015 &ndash; 2019: Worked as a freelance Photographer<br />
+                    since 2020: Studying Interaction Design <a href='https://www.hfg-gmuend.de/' target='_blank'>@HfG Schwäbisch Gmünd</a>"
                     
     # - items:
     #     - title: "Sed feugiat"
