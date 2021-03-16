@@ -2,6 +2,7 @@
 title = 'World Happiness Report 2015 - 2020'
 slug = 'dataViz'
 image = 'images/DataViz/dataViz_titel.jpg'
+date= "2019-03-13T00:00:00"
 description = 'Example of post with missing date property'
 disableComments = true
 +++

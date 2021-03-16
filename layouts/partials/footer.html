@@ -1,7 +1,9 @@
 <!-- Footer -->
 <footer id="footer">
     <ul class="icons">
+        <ul class="copyright">Follow me on: </br></ul>
         {{ range .Site.Params.share }}
+        
             <li><a href="{{ .link }}" class="icon brands {{ .icon }}"><span class="label">{{ .title }}</span></a></li>
         {{ end }}
     </ul>

@@ -2,8 +2,10 @@
 title: 'Redesign Taxi-App'
 slug: '5050'
 image: 'images/5050/titel.jpg'
+date: "2019-03-16T00:00:00"
 description: 'Example of post with missing date property'
 disableComments: true
+draft: false
 ---
 
 Hello i am a text

@@ -25,15 +25,26 @@ disqusShortname = "Tobias Ertel"
 # icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
 # link = "https://www.facebook.com/"
 
+# [[params.share]]
+# title = "twitter"
+# icon = "fa-twitter"
+# link = "https://twitter.com/"
+
 [[params.share]]
-title = "twitter"
-icon = "fa-twitter"
-link = "https://twitter.com/"
+title = "Github"
+icon = "fa-github"
+link = "https://github.com/Letre2"
 
 [[params.share]]
 title = "linkedin"
 icon = "fa-linkedin"
-link = "https://www.linkedin.com"
+link = "https://www.linkedin.com/in/tobias-ertel-5b3312131/"
+
+[[params.share]]
+title = "Ello"
+icon = "fa-ello"
+link = "https://ello.co/tobiasertel"
+
 
 ### For Pages the .RelPermalink must match the menu .URL
 ### For sections the name/directory must match the menu .Identifier
