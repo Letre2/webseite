@@ -52,4 +52,25 @@ _____
 ### *„We talk about language but actually do it too little“*
 Vera F. Birkenbihl
 
-### **About the Design process** 
+## **Design process**  
+
+In short, our process was highly influneced by the Corona pandemic. From the idea to the method of working. The whole process was executet remote. There for we where useing tools like, Miro, Zoom, Figma, Cinema4D and After Effects. 
+
+
+### **Research** 
+
+### **Design Prinzipien**
+
+- Motivation - More fun in learning languages  
+- Three "F" for Gamification - Friends, Feedback, Fun. Playful learning awakens the students' ambition.
+- Feedback - Students learn to evaluate themselves and their learning behavior.
+- Making mistakes is okay - There is no direct feedback on mistakes, especially at the beginning. - The voice assistant simply repeats the wrong word (mothering method). This keeps students motivated.
+- Practice - More speaking and active use of the foreign language. 
+- Avoiding fear - Students are not afraid to embarrass themselves because of mistakes.
+- Educational equity - Everyone gets the same device. There is no need to learn with your own smartphone. This avoids distractions and ensures educational equity for the poorer population as well. 
+- Self-directed learning - Students can view their learning progress in skilltrees. This allows them to better assess their learning progress. 
+- Relieve teachers - Teachers receive updates from the language learning assistant on the learning success and weaknesses of individual students. 
+- Safety first - reduce screentime, no webcam in the children's room. 
+
+
+
