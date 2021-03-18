@@ -42,35 +42,72 @@ UNESCO - International Commission on the Futures of Education
 
 
 
-_____
+<br>
 
 ### **The result of the project is the digital learning assistant "Ovi" which supports students in learning foreign languages. It does not replace the teacher, it merely serves as a useful tool. In addition to free conversation, "Ovi" can also support the active use of the foreign language through playful approaches such as a "vocabulary duel" or an interactive audio play.  Ovi collects data from the interactions that take place, identifies students' weaknesses and strengths, and generates data visualizations that are made available to both teachers and students. Teachers can thus better identify weaknesses and problems and address them individually. For students, the visualization of their own performance leads to the promotion of independent learning.**
+<br>
+
 _____
 
-<br>
 
 ### *„We talk about language but actually do it too little“*
 Vera F. Birkenbihl
 
+_____  
+<br>
+
 ## **Design process**  
 
-In short, our process was highly influneced by the Corona pandemic. From the idea to the method of working. The whole process was executet remote. There for we where useing tools like, Miro, Zoom, Figma, Cinema4D and After Effects. 
+In short, our process was highly influneced by the Corona pandemic. From the idea to the method of working. The whole process was executet remote. There for we where useing tools like, Miro, Zoom, Figma, Cinema4D and After Effects.  
+Unfortunetly cause of the lock-down in our region we weren't able to do some user test, but might do some in the future.  
+
+### **Design Prinzipien**  
+<br>
 
 
+- **3 "F" Gamification** - Friends, Feedback, Fun. Competitive elements arouse the ambition of the students. Through feedback, students learn to assess themselves and their learning behavior. Fun should be in the foreground at all times.  
+
+- **Making mistakes is okay** - Especially in the beginning there is no direct feedback on mistakes. The voice assistant simply repeats incorrect words in a correct manner (mothering method). This keeps students motivated.
+
+- **Avoiding fear** - Students should not be afraid of embarrassing themselves because of mistakes.  
+
+- **Educational equity** - Everyone is provided with the technical equipment. By deliberately excluding supplementary technologies, such as smartphones, distractions are avoided and educational equity and social permeability are ensured.  
+
+- **Independent learning** - Students can view their learning progress in skill trees and thus better assess themselves.  
+
+- **Relieve and strengthen teachers** - Teachers receive updates on learning success and unprecedented insights into the performance data of individual students. This enables them to provide students with more targeted individual and group support.  
+
+- **Safety first** - reduce screen time, no webcam in the children's room.   
+
+### **Understanding our process**  
+<br>
+
+<img src="ovi_process.svg" alt="ovi process" width="100%"/>  
+<br>
+<br>
+
+ 
 ### **Research** 
 
-### **Design Prinzipien**
+Try to understand how learning a foreigen language for people works.
 
-- Motivation - More fun in learning languages  
-- Three "F" for Gamification - Friends, Feedback, Fun. Playful learning awakens the students' ambition.
-- Feedback - Students learn to evaluate themselves and their learning behavior.
-- Making mistakes is okay - There is no direct feedback on mistakes, especially at the beginning. - The voice assistant simply repeats the wrong word (mothering method). This keeps students motivated.
-- Practice - More speaking and active use of the foreign language. 
-- Avoiding fear - Students are not afraid to embarrass themselves because of mistakes.
-- Educational equity - Everyone gets the same device. There is no need to learn with your own smartphone. This avoids distractions and ensures educational equity for the poorer population as well. 
-- Self-directed learning - Students can view their learning progress in skilltrees. This allows them to better assess their learning progress. 
-- Relieve teachers - Teachers receive updates from the language learning assistant on the learning success and weaknesses of individual students. 
-- Safety first - reduce screentime, no webcam in the children's room. 
+**Readings:**  
+
+**Podcasts:**
+
+**Q&A:** 
+
+**Key findings:**
+
+**Focus:**
+
+**Prototyping:**
+
+**Test & Evaluate:**
+
+
+
+
 
 
 
