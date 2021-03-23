@@ -20,8 +20,8 @@
 
 // Font.
 	$font: (
-		family:				('Source Sans Pro', sans-serif),
-		family-fixed:		monospace,
+		family:				('Fira Sans', sans-serif),
+		family-fixed:		sans-serif,
 		weight:				300,
 		weight-bold:		400,
 	);
@@ -38,9 +38,9 @@
 		border2-bg:			#f0f0f0,
 
 		header: (
-			bg:				rgba(170, 202, 250, 0.639),
+			bg:				rgba(133, 181, 254, 0.612),
 			fg:				#283583,
-			fg-bold:		#283583,
+			fg-bold:		#ffffff,
 			fg-light:		#999
 		),
 
