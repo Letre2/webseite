@@ -930,6 +930,12 @@ $box-padding: 3em;
     top: 0.25em;
   }
 
+  &.small {
+    float: left;
+    margin: auto;
+    width: 50%;
+  }
+
   &.right {
     float: right;
     padding: 0 0 1em 1.5em;
@@ -940,6 +946,7 @@ $box-padding: 3em;
     display: block;
     margin: 0 0 _size(element-margin) 0;
     width: 100%;
+
 
     img {
       display: block;

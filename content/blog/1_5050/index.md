@@ -17,18 +17,32 @@ In the Application Design course we worked out a redesign of a smartphone applic
 
   
 ### **Final concept film**  
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/524254812?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/524254812?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>  
+
+<br>
+<br>
+
+
+### **Final screens**  
+
+**Book a Taxi**  
+{{< image src="fahrt_buchen.gif" class= "fit" >}}  
+**Share your ride**  
+{{< image src="fahrt_teilen.gif" class= "fit" >}}  
+ **Join a ride via invitation link**  
+{{< image src="zustieg_bg.gif" class= "fit" >}}  
 
 <br>
 
-### **Final screens**  
+
+
 
 ### **About the 50/50-App**  
 
 For more than 16 years, the "fiftyFifty-Taxi" has been driving young adults late at night home safely and for half the price.
 The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed in April 2015. In the app, people have to register and load a kind of electronic authorization card onto their smartphone. They show this when they get into the cab, activate the app and scan the QR code of the cab order number with their smartphone.
 
-### **The new concept**  
+### **Our new features**  
 - Possibility to share a ride with friends via invitation link or QR-Code.
 - Share your ride with the public. 
 - Joyn available rides. 
@@ -47,9 +61,9 @@ The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed i
 2. User Journey mapping
 3. User Interview and inquiries.
 5. competitor analysis
-4. Analyse & define
-5. App architecture 
+4. Analyse & define 
 6. Kano Methode
+5. App architecture
 7. Design Board methode 
 8. Low-fi Prototype
 9. Details 
@@ -59,22 +73,40 @@ The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed i
 {{< image src="miro.png" class= "fit" >}}
 
 
-**Work breakdown structure - Organizing the work with a WBS**
+**Organizing the work with a Work breakdown structure**
 {{< image src="psp.png" class= "fit" >}}  
 
 
-### **Screenflow**  
+<!-- ### **Screenflow**  
 
 {{< image src="screenflow.jpg" class= "fit" >}}
-{{< image src="screenflow2.jpg" class= "fit" >}}
+{{< image src="screenflow2.jpg" class= "fit" >}} -->
 
-### **User Journey mapping**  
+<!-- ### **User Journey mapping**  
 
 {{< image src="userjourney.jpg" class= "fit" >}}
 
 ### **User Interview and inquiries**
 
 
+### **App architecture**
 
+{{< image src="architecture.jpg" class= "fit" width="50%">}} -->
+
+{{< image src="sketching.png" class= "fit" width="50%">}}
+
+
+### **Wireframe**
+
+<img src="wireframe1.png" alt="ovi process" width="60%"/>  
+<img src="wireframe2.png" alt="ovi process" width="60%"/>  
+
+### **First tryouts in Figma**
+<img src="design.png" alt="ovi process" width="60%"/>  
+
+
+### **Final screens**
+
+<img src="final.png" alt="ovi process" width="60%"/>  
 
 
