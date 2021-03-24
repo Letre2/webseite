@@ -13,7 +13,7 @@ draft: false
 |-|-|
 | **Type:** Semesterproject - Execution time 2 Month<br> **Course**: Application Design - Rebecca Schellhorn <br> **Faculty:** HfG Schwäbisch Gmünd <br> **Year:** 2020 <br>| **Niko Mang** - Interaction Design <br>  **Marla Wagner** - Interaction Design <br> **Luzie Funk** - Interaction Design|  
 
-In the Application Design course we worked out a redesign of a smartphone application. We understand and define the user, his user needs, analyze the context, the competition and reorganize the information structure and its access. Optimized user flows are created and user-relevant functions are added. In this way, a coherent and function-oriented interaction and visual design is developed. Product hypotheses are validated and iterated through regular user testing. A new mobile user experience is created. The goal is to understand basic user-centered methods, iterative product development, prototyping, and design in the mobile usage context.
+In the Application Design course we worked out a redesign of a smartphone application. We understand and define the user, his user needs, analyze the context, the competition and reorganize the information structure and its access. Optimized user flows are created and user-relevant functions are added. In this way, a coherent and function-oriented interaction and visual design is developed. Product hypotheses are validated and iterated through regular user testing. A new mobile user experience appears. The goal was to understand basic user-centered methods, iterative product development, prototyping, and design in the mobile usage context.
 
   
 ### **Final concept film**  
@@ -42,7 +42,7 @@ In the Application Design course we worked out a redesign of a smartphone applic
 For more than 16 years, the "fiftyFifty-Taxi" has been driving young adults late at night home safely and for half the price.
 The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed in April 2015. In the app, people have to register and load a kind of electronic authorization card onto their smartphone. They show this when they get into the cab, activate the app and scan the QR code of the cab order number with their smartphone.
 
-### **Our new features**  
+### **Our added features**  
 - Possibility to share a ride with friends via invitation link or QR-Code.
 - Share your ride with the public. 
 - Joyn available rides. 
@@ -52,6 +52,9 @@ The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed i
 - Schedule a ride.  
 - Pay online.  
 - Everyone can use the service of the 50/50-Taxi
+
+### **My role in this team**  
+
 
 -----  
 
