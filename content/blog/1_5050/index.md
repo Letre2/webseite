@@ -54,7 +54,7 @@ The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed i
 - Everyone can use the service of the 50/50-Taxi
 
 ### **My role in this team**  
-I worked in a team consisting of two other interaction designer and me. I had a important role, cause I was doing the User reaserch and the Interactive Prototyping with Protopie. Both tasks were shaping the appearence of the final experience. In the user research, 
+I worked in a team consisting of two other interaction designer. I had a important role, cause I was doing the User reaserch and the Interactive Prototyping with Protopie. Both tasks were shaping the appearence of the final experience. In the user research, 
 
 -----  
 
