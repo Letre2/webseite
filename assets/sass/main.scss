@@ -1319,9 +1319,9 @@ body.landing {
   background: _palette(header, bg);
   color: _palette(header, fg);
   cursor: default;
-  height: 3.25em;
+  height: 3em;
   left: 0;
-  line-height: 3.25em;
+  line-height: 3em;
   position: fixed;
   top: 0;
   width: 100%;
@@ -1872,7 +1872,7 @@ body.landing {
 
   #banner {
     background-attachment: scroll;
-    padding: 11.5%;
+    padding: 8%;
 
     h2 {
       font-size: 3.5em;
