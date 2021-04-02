@@ -2,7 +2,7 @@
 name = "Tobias Ertel"
 anguageCode = "en-us"
 title = "Interaction Design by Tobias Ertel"
-baseURL = ""
+baseURL = "https://tobias-ertel.netlify.app/"
 theme = "hugo-html5up-alpha-master"
 disqusShortname = "Tobias Ertel"
 
