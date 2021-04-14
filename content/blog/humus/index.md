@@ -27,6 +27,10 @@ Humus can also stop global warming or reduce weather-related crop failures, thus
 <br>  
 <br>  
 
+<a href="https://kind-visvesvaraya-a7b656.netlify.app/" target="_blank">You can find our final prototype here (German)</a>
+****
+
+
 
 **About the process:**  
 Based on early prototypes, we were able to quickly find the right tooling, that saved us valuable time.

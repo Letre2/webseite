@@ -7,6 +7,34 @@ description = 'Example of post with missing date property'
 disableComments = true
 +++
 
-<div style="padding:53.35% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/442800899?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-Working with constraints - Love it or hate it. 
+| <h3>  **Project Info**  </h3> |
+|-|-|
+| **Type:** Semesterproject - Execution time 2 Month<br> **Course:** Generative design <br> **Faculty:** <a href="https://hfg-gmuend.de/" target="_blank">HfG Schwäbisch Gmünd</a> <br> **Year:** 2020 <br>| 
+
+<div style="padding:53.35% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/442800899?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>  
+<br>
+<br>
+
+
+**Working with constraints -**
+In this project the constraints were to design and code a Data visualization without using any alphanumeric characters (text, numbers) or pictorial elements. The difficulty was to figure out an encoding for the different categories you wanted to compare.
+
+**About the project -**
+The World Happiness Report of the United Nations attempts to evaluate the well-being of 150 countries worldwide on the basis of a number of key factors such as social environment, health, GDP, etc. The report is based on the results of a survey. It works with surveys that were evaluated afterwards.
+
+Each country is represented by a flower and a category by a petal. The size of a petal indicates the score of the respective country in this category (e.g. GDP in Germany). When all points are added up, a total score (ladder score) is obtained for each country. The higher the score, the larger the flower.
+
+**Colorcode**
+<img src="color.svg" alt="UI Humus" width="100%"/>  <br>  
+
+**Interaction**<br>
+Single click - change the view <br>
+Double click - next view <br>
+Scroll - Zoom in/out <br>
+
+**Screen - Worldmap**
+
+**Screen - Scatter plot**
+
+**Screen - Red ribbon**
