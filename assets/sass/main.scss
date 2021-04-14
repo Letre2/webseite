@@ -718,6 +718,11 @@ $box-padding: 3em;
   box-shadow: 0 2px 0 0 _palette(border);
   margin: 0 0 _size(element-margin) 0;
   padding: $box-padding;
+  opacity: 1;
+  transition: .5s ease;
+  backface-visibility: hidden;
+  
+  
 
   > :last-child {
     margin-bottom: 0;
@@ -789,6 +794,7 @@ $box-padding: 3em;
     }
   }
 
+
   //ABOUT
 
   &.special {
@@ -802,6 +808,7 @@ $box-padding: 3em;
       margin: $box-padding 0 $box-padding ($box-padding * -1);
       position: relative;
       width: calc(100% + #{$box-padding * 2});
+      
 
       img {
         border-radius: 0;
@@ -831,6 +838,12 @@ $box-padding: 3em;
     }
   }
 }
+
+.box .image.featured:hover img {
+transition: .5s ease;
+opacity: 0.3;
+}
+
 
 /* Icon */
 

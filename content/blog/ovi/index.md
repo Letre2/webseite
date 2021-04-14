@@ -38,7 +38,7 @@ UNESCO - International Commission on the Futures of Education
 <br>
 <br>
 
-<div style="padding:56.34% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/507939213?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>  
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/536689208?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />
 
 <br>
@@ -119,8 +119,7 @@ Also according to Jerome Bruner's "functionalist theory of language acquisition,
 
 
 **Key findings:**  
-In our reserach we were talking to, Teachers, educational scientist, students and with the Ministry of Education. 
-
+In our reserach we were talking to, Teachers, educational scientist, students and with the Ministry of Education. Here you find a selection of our main discoveries:
 - Students are already using disallowed AI translation software to do their homework.
 - Students speak too little in the foreign language.
 - Students are afraid to make mistakes and therefore say nothing at all in the foreign-language.

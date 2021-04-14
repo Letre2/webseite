@@ -27,7 +27,33 @@ features:
         - title: "About Tobias Ertel"
           accent: "accent1" #accent values are 1-8
           content: "In my work as a designer, I strive to shape the world we want to live in - one that is also sustainable, one that works with us and for us. I like to rethink processes that are unsustainable or don‘t make sense for us humans. There is always a better way, and I have made it my mission to look for it. 
-          In the future, I would like to work for people and with people, while not losing sight of design creation. It is all about people, rather than technology. I am curious about interactive objects - both digital and physical -"
+          In the future, I would like to work for people and with people, while not losing sight of design creation. It is all about people, rather than technology. I am curious about interactive objects - both digital and physical -
+
+<style type='text/css'>
+.tg  {border-collapse:collapse;border-spacing:0; width: 400px;}
+.tg td{border-width:1px;
+  overflow:hidden;padding:5px 5px;word-break:normal; background: white; }
+.tg th{border-width:1px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; height: 10px}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+</style>      
+
+<table class='tg'>
+<thead>
+  <tr>
+    <th class='tg-0pky'><br>Software skills:</th>
+    <th class='tg-0pky'><br>Coding skills:</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class='tg-0pky'>Cinema 4D<br>Adobe CC<br>Affinity Designer<br>Figma<br>Protopie<br></td>
+    <td class='tg-0pky'>Java Script<br>CSS<br>HTML<br>Hugo<br>Arduino<br></td>
+  </tr>
+</tbody>
+</table> "
+
+          
           
 
         - title: "Vita"
@@ -37,9 +63,11 @@ features:
           content: "2011 &ndash; 2013: Trained as photographer by Mierswa-Kluska Munic <br />
                     2013 &ndash; 2014: Traveling on the countryway to India<br />
                     2015 &ndash; 2019: Worked as a freelance Photographer<br />
-                    since &nbsp; 2020: Studying Interaction Design <a href='https://www.hfg-gmuend.de/' target='_blank'>@HfG Schwäbisch Gmünd</a>"
+                    since &nbsp; 2020: Studying Interaction Design <a href='https://www.hfg-gmuend.de/' target='_blank'>@HfG Schwäbisch Gmünd</a><br /><br />
                     
-    # - items:
+                    Download <a href='https://drive.google.com/file/d/1wFZfzKL1u10J1T-VwQdpltSC8rxGQSzi/view?usp=sharing' target='_blank'>CV</a> & <a href='https://www.hfg-gmuend.de/' target='_blank'>Portfolio</a>"
+    # - items:      
+   
     #     - title: "Sed feugiat"
     #       icon: "fa-cloud"
     #       accent: "accent4" #accent values are 1-8
