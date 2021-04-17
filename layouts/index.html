@@ -56,7 +56,9 @@
           <div class="col-6 col-12-narrower">
             <section class="box special">
               {{ with partial "bannerURL" . }}
+              
               <span class="image featured"><img src="{{ . }}" alt="" /></span>
+          
               {{ end }}
               <h3>{{ .Title }}</h3>
               <!-- {{ with .Date }}

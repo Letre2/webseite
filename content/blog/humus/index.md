@@ -38,7 +38,7 @@ In the further course, however, many iterations were necessary to end up where t
 
 
 **Info architecture**
-
+<img src="info1.jpg" alt="Info architecture" width="100%"/>  <br>  
 
 **From early sketches to the final map:**
 
