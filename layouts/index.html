@@ -57,9 +57,10 @@
             <section class="box special">
               {{ with partial "bannerURL" . }}
               
-              <span class="image featured"><img src="{{ . }}" alt="" /></span>
-          
+              <a href="{{ . }}" class="image featured"><img src="{{ . }}" alt="" /></a>
+
               {{ end }}
+              
               <h3>{{ .Title }}</h3>
               <!-- {{ with .Date }}
               <p>{{ .Format "Jan 2, 2006" }}</p>
@@ -70,9 +71,13 @@
               {{ end }} -->
               <ul class="actions special">
                 <li>
+                  
                   <a href="{{ .Permalink }}" class="button alt"
                     >{{ $blogSettings.buttonText }}
                   </a>
+                  
+                    
+                  
                 </li>
               </ul>
             </section>

@@ -897,7 +897,7 @@ opacity: 0.3;
       background-image: url(images/tobias_ertel.png);
       background-repeat: no-repeat;
       background-position: center;
-      background-size: 90px, 90px;
+      background-size: 110%, 110%;
       color: _palette(accent1, fg-bold);
     }
 
@@ -1449,6 +1449,9 @@ body.landing {
 
   &.reveal {
     @include vendor("animation", "reveal-header 0.5s");
+    
+    
+
   }
 
   &.alt {
@@ -1456,6 +1459,27 @@ body.landing {
     background: none;
     color: rgba(255, 255, 255, 0.75);
     position: absolute;
+
+    a:not(.button) {
+      color: _palette(header, fg-not);
+    }
+
+    h1 {
+      color: inherit;
+      height: inherit;
+      left: 1.25em;
+      line-height: inherit;
+      margin: 0;
+      padding: 0;
+      position: absolute;
+      top: 0;
+  
+      a {
+        color: _palette(header, fg-not);
+        font-weight: _font(weight-bold);
+        border: 0;
+      }
+    }
 
     nav {
       > ul {

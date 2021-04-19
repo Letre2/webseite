@@ -18,6 +18,9 @@ disqusShortname = "Tobias Ertel"
   custom_js = ["js/sketch.js"]
 
 
+[permalinks]
+posts = "/blog/:title/"
+
 
 # ## Footer Social Media Links ###
 # [[params.share]]

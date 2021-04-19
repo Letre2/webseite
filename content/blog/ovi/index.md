@@ -1,5 +1,5 @@
 +++
-title = 'Voice User Interface for language learning'
+title = 'Voice Interface for language learning'
 slug = 'Ovi'
 date= "2019-03-15T00:00:00"
 image = 'images/Ovi/ovi_titel.png'
@@ -13,7 +13,7 @@ disableComments = true
  
 <!-- 
 ### Projekt Info
-Semesterproject   
+Semesterproject   ^
 Invention Design Course  
 HfG Schwäbisch Gmünd   
 Jahr: 2021  

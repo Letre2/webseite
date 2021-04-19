@@ -1,5 +1,5 @@
 +++
-title = 'World Happiness Report 2015 - 2020'
+title = 'Data visualization with constraints'
 slug = 'dataViz'
 image = 'images/DataViz/worldhappy.png'
 date= "2019-03-13T00:00:00"

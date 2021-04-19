@@ -1,7 +1,7 @@
 ---
 title: 'Redesign Taxi-App'
 slug: '5050'
-image: 'images/5050/5050_titel2.jpg'
+image: 'images/5050/title3.png'
 date: "2019-03-16T00:00:00"
 description: 'Example of post with missing date property'
 disableComments: true
@@ -54,7 +54,7 @@ The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed i
 - Everyone can use the service of the 50/50-Taxi
 
 ### **My role in this team**  
-I worked in a team consisting of two other interaction designer. I had a important role, cause I was doing the User reaserch and the Interactive Prototyping with Protopie. Both tasks were shaping the appearence of the final experience. 
+I worked in a team consisting of two other interaction designer. I had a important role, cause I was doing the User reaserch and the interactive prototyping with "Protopie". Both tasks were shaping the appearence of the final experience. 
 
 -----  
 
@@ -70,11 +70,11 @@ I worked in a team consisting of two other interaction designer. I had a importa
 7. Design Board methode 
 8. Low-fi Prototype
 9. Details 
-
+<!-- 
 **Miro Board**  
 
 {{< image src="miro.png" class= "fit" >}}
-
+ -->
 
 **Organizing the work with a Work breakdown structure**
 {{< image src="psp.png" class= "fit" >}}  
