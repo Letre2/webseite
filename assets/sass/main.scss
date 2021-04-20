@@ -840,8 +840,8 @@ $box-padding: 3em;
 }
 
 .box .image.featured:hover img {
-transition: .5s ease;
-opacity: 0.3;
+// transition: .5s ease;
+// opacity: 0.3;
 }
 
 
@@ -1676,8 +1676,8 @@ body.landing {
   display: block;
   width: 10px;
   height: 10px;
-  border-bottom: 2px solid #6f7691bd;
-  border-right: 2px solid #6f7691bd;
+  border-bottom: 2px solid #ffffffbd;
+  border-right: 2px solid #ffffffbd;
   transform: rotate(45deg);
   margin: -10px;
   animation: animate 4s infinite;
@@ -1865,13 +1865,13 @@ body.landing {
 
   #banner {
     //padding: 25em 0 25em 0;
-    padding: 15%;
+    padding: 16%;
     
     h3 {
       position:relative;
       display: absolute;
       margin: 0 auto;
-      top: 3em;
+      top: 4em;
     }
 
     .arrow{
@@ -1879,7 +1879,7 @@ body.landing {
       position: relative;
       margin: 0 auto;
       width: 0%;
-      top: 9em;  
+      top: 12em;  
     }
     
   }
@@ -1909,7 +1909,7 @@ body.landing {
 
   #banner {
     background-attachment: scroll;
-    padding: 8%;
+    padding: 10%;
 
     h2 {
       font-size: 3.5em;
@@ -1928,7 +1928,7 @@ body.landing {
       position: relative;
       margin: 0 auto;
       width: 0%;
-      top: 5em;  
+      top: 4em;  
     }
 
   }
