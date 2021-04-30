@@ -9,7 +9,7 @@ disableComments = true
 
 | <h3>  **Project Info**  </h3> | <h3> **Teammates**  </h3> |
 |-|-|
-| **Type:** Semesterproject - Execution time 2 Month<br> **Course:** Interactive communication system by Farbian Schröbel <br> **Faculty:** <a href="https://hfg-gmuend.de/" target="_blank">HfG Schwäbisch Gmünd</a> <br> **Year:** 2020 <br>| **<a href="http://felixhaeberle.de/" target="_blank">Felix Haeberle</a>** - Interaction Design <br>  **Zacharie Reifegerst** - Interaction Design <br>  
+| **Type:** Semester project - Execution time 2 months<br> **Course:** Interactive communication system by Farbian Schröbel <br> **Faculty:** <a href="https://hfg-gmuend.de/" target="_blank">HfG Schwäbisch Gmünd</a> <br> **Year:** 2020 <br>| **<a href="http://felixhaeberle.de/" target="_blank">Felix Haeberle</a>** - Interaction Design <br>  **Zacharie Reifegerst** - Interaction Design <br>  
 
 
 **Exhibit about Humus - a important part of our soil**  

@@ -24,7 +24,7 @@ Marla Wagner - Interaction Design   -->
 
 | <h3>  **Project Info**  </h3> | <h3> **Teammates**  </h3> |
 |-|-|
-| **Type:** Semesterproject <br> **Course**: Invention Design <br> **Faculty:** HfG Schwäbisch Gmünd <br> **Year:** 2021 <br>| **Niko Mang** - Interaction Design <br>  **Marla Wagner** - Interaction Design <br>|
+| **Type:** Semester project <br> **Course**: Invention Design <br> **Faculty:** HfG Schwäbisch Gmünd <br> **Year:** 2021 <br>| **Niko Mang** - Interaction Design <br>  **Marla Wagner** - Interaction Design <br>|
 
 <br>
 

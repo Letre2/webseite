@@ -9,7 +9,7 @@ disableComments = true
 
 | <h3>  **Project Info**  </h3> | <h3> **Teammates**  </h3> |
 |-|-|
-| **Type:** Personal Project <br> **Publisher:** <a href="https://www.knesebeck-verlag.de/querweltein/t-1/916" target="_blank">Knesebeck</a> <br> **Edition:** 5000 pcs <br > **Year:** 2021 <br>| **<a href="https://www.salon.io/piwihowland" target="_blank">Pia Wieland</a>** - Graphic Design|
+| **Type:** Personal project <br> **Publisher:** <a href="https://www.knesebeck-verlag.de/querweltein/t-1/916" target="_blank">Knesebeck</a> <br> **Edition:** 5000 pcs <br > **Year:** 2021 <br>| **<a href="https://www.salon.io/piwihowland" target="_blank">Pia Wieland</a>** - Graphic Design|
 
 
 This sustainability guidebook focuses entirely on environmentally friendly travel and shows the many ways to travel more consciously without airplane. Through twenty travel adventures of varying lengths, you'll learn what other options are available instead of air travel and how to reach your next destination using eco-friendly alternatives. Maps for orientation, tips on the best places for camping, must-haves for plastic-free travel, a self-test on your ecological footprint, and useful apps and websites for traveling over land and water will inspire and help you plan your own trip.

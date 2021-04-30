@@ -10,7 +10,7 @@ disableComments = true
 
 | <h3>  **Project Info**  </h3> |
 |-|-|
-| **Type:** Semesterproject - Execution time 2 Month<br> **Course:** Generative design <br> **Faculty:** <a href="https://hfg-gmuend.de/" target="_blank">HfG Schwäbisch Gmünd</a> <br> **Year:** 2020 <br>| 
+| **Type:** Semester project - Execution time 2 months<br> **Course:** Generative design <br> **Faculty:** <a href="https://hfg-gmuend.de/" target="_blank">HfG Schwäbisch Gmünd</a> <br> **Year:** 2020 <br>| 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/536773284?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>  
 <br>
