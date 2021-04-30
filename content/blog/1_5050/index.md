@@ -13,7 +13,7 @@ draft: false
 |-|-|
 | **Type:** Semester project - Execution time 2 months<br> **Course**: Application Design - Rebecca Schellhorn <br> **Faculty:** HfG Schwäbisch Gmünd <br> **Year:** 2020 <br>| **Niko Mang** - Interaction Design <br>  **Marla Wagner** - Interaction Design <br> **Luzie Funk** - Interaction Design|  
 
-In the Application Design course we worked out a redesign of a smartphone application. We understand and define the user, his user needs, analyze the context, the competition and reorganize the information structure and its access. Optimized user flows are created and user-relevant functions are added. In this way, a coherent and function-oriented interaction and visual design is developed. Product hypotheses are validated and iterated through regular user testing. A new mobile user experience appears. The goal was to understand basic user-centered methods, iterative product development, prototyping, and design in the mobile usage context.
+In the course Application Design the challenge was to redesign a smartphone application. We understand and define the user, his user needs, analyze the context, the competition and reorganize the information structure and its access. Optimized user flows are created and user-relevant functions are added. In this way, a coherent and function-oriented interaction and visual design is developed. Product hypotheses are validated and iterated through regular user testing. A new mobile user experience appears. The goal was to understand basic user-centered methods, iterative product development, prototyping, and design in the mobile usage context.
 
   
 ### **Final concept film**  
