@@ -11,9 +11,9 @@ draft: false
 
 | <h3>  **Project info**  </h3> | <h3> **Teammates**  </h3> |
 |-|-|
-| **Type:** Semester project - Execution time 2 months<br> **Course**: Application Design - Rebecca Schellhorn <br> **Faculty:** HfG Schwäbisch Gmünd <br> **Year:** 2020 <br>| **Niko Mang** - Interaction Design <br>  **Marla Wagner** - Interaction Design <br> **Luzie Funk** - Interaction Design|  
+| **Type:** Semester project - Execution time 2 months<br> **Course**: Application Design - Rebecca Schellhorn <br> **Faculty:** HfG Schwäbisch Gmünd <br> **Year:** 2020 <br>| **<a href="http://nikomang.de/" target="_blank">Niko Mang</a>** - Interaction Design <br>  **Marla Wagner** - Interaction Design <br> **Luzie Funk** - Interaction Design|  
 
-  In the course Application Design the challenge was to redesign a smartphone application. The goal of the course was to apply basic user-centered methods, iterative product development, prototyping and design in the mobile usage context. We chose the local taxi app 50/50. According to the user-centered design approach, we understood and defined the user and analyzed his needs depending on the context. By reorganizing the information structure, we optimized user flows and added user-relevant functions. In this way, a coherent and function-oriented interaction and visual design was developed. Furthermore, product hypotheses were validated and iterated by constant user testing. Finally, a new user experience emerged. 
+  In the course Application Design the challenge was to redesign a smartphone application. The goal of the course was to apply basic user-centered methods, iterative product development, prototyping and design in the mobile usage context. We chose the local taxi app 50/50-Taxi. According to the user-centered design approach, we understood and defined the user and analyzed his needs depending on the context. By reorganizing the information structure, we optimized user flows and added user-relevant functions. In this way, a coherent and function-oriented interaction and visual design was developed. Furthermore, product hypotheses were validated and iterated by constant user testing. Finally, a new user experience emerged. 
 
   
 ### **Final concept film**  
@@ -24,17 +24,18 @@ draft: false
 
 ### **About the 50/50 app**  
 
-For more than 16 years, the "fiftyFifty-Taxi" has been driving young adults late at night home safely and for half the price.
-The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed in April 2015. In the app, people have to register and load a kind of electronic authorization card onto their smartphone. They show this when they get into the cab, activate the app and scan the QR code of the cab order number with their smartphone.
+For more than 16 years, the "50/50-Taxi" has been driving young adults home safely late at night and for half the price.
+The first 50/50-Taxi app of the Ostalbkreis district was developed in April 2015. In the app, people need to register and and install an electronic authorization card on their smartphone.
+. When they get into the taxi, they show the card, activate the app and scan the QR code of the taxi's order number with their smartphone.
 
 
 ### **Final screens**  
 
-**Book a Taxi**  
+**Book a taxi**  
 {{< image src="fahrt_buchen.gif" class= "fit" >}}  
 **Share your ride**  
 {{< image src="fahrt_teilen.gif" class= "fit" >}}  
- **Join a ride via invitation link**  
+ **Join a ride  via the invitation link**  
 {{< image src="zustieg_bg.gif" class= "fit" >}}  
 
 <br>
@@ -44,32 +45,31 @@ The Ostalbkreis district had its first app for the "fiftyFifty-Taxi" developed i
 
 
 ### **Our added features**  
-- Possibility to share a ride with friends via invitation link or QR-Code.
-- Share your ride with the public. 
-- Joiny available rides. 
-- Better organization of rides.
+- Possibility to share a ride with friends via the invitation link or QR-Code.
+- Share a ride with the public. 
+- Join available rides. 
 - Ride Manager / Dashboard. 
-- Rate a ride and see the ratings of an available ride.
+- Rate a ride and see the ratings of available rides.
 - Schedule a ride.  
 - Pay online.  
-- Everyone can use the service of the 50/50-Taxi
+- Unlimited access to the 50/50-Taxi.
 
 ### **My role in this team**  
-I worked in a team consisting of two other interaction designer. I had a important role, cause I was doing the User reaserch and the interactive prototyping with "Protopie". Both tasks were shaping the appearence of the final experience. 
+Our team consisted of three interaction designers. My role was to conduct user research and to accomplish interactive prototyping with "Protopie". Both tasks were central to the appearence of the final experience.
 
 -----  
 
 ## **Design process**  
 
-1. Screenflow
-2. User Journey mapping
-3. User Interview and inquiries.
-5. competitor analysis
-4. Analyse & define 
-6. Kano Methode
+1. Screenflow analysis
+2. User journey mapping
+3. User interview and inquiries.
+5. Competitor analysis
+4. Analyze & define the context of use and the personas 
+6. Kano methode
 5. App architecture
-7. Design Board methode 
-8. Low-fi Prototype
+7. Design board methode 
+8. Low-fi prototype
 9. Details 
 <!-- 
 **Miro Board**  
@@ -77,7 +77,7 @@ I worked in a team consisting of two other interaction designer. I had a importa
 {{< image src="miro.png" class= "fit" >}}
  -->
 
-**Organizing the work with a Work breakdown structure**
+**Organizing the work with a work breakdown structure**
 {{< image src="psp.png" class= "fit" >}}  
 
 
@@ -90,7 +90,7 @@ I worked in a team consisting of two other interaction designer. I had a importa
 
 {{< image src="userjourney.jpg" class= "fit" >}}
 
-### **User Interview and inquiries**
+### **User interview and inquiries**
 
 
 ### **App architecture**
