@@ -1,5 +1,5 @@
 +++
-title = 'Data visualization with constraints'
+title = 'Data Visualization with Constraints'
 slug = 'dataViz'
 image = 'images/DataViz/worldhappy.png'
 date= "2019-03-13T00:00:00"

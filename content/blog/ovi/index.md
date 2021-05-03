@@ -90,13 +90,13 @@ Students should not be afraid of humiliating themselves because of mistakes.
 Everyone is provided with the technical equipment. By deliberately excluding supplementary technologies such as smartphones, educational equity and social permeability are ensured.  
 
 - **Independent learning**  
-skill trees. Thus, they can assess themselves in a better way./ Thus, they can more easily assess themselves.
+Students can view their learning progress in skill trees. Thus, they can assess themselves in a better way.  
 
 - **Relieve and strengthen teachers**  
-Teachers receive updates on learning success and insights into the performance data of individual students. This enables them to provide students with individual and group support.  
+Teachers receive updates on the students' learning progress as well as insights into their individual performance data. This enables teachers to provide the individual student or as a group with better support.
 
 - **Safety first**  
-reduce screen time, no webcam in the children's room.   
+Reduce screen time. No webcam in the children's rooms.
 
 <br>
 
@@ -114,22 +114,23 @@ reduce screen time, no webcam in the children's room.
 <br>
 
 #### **Readings:**
-To understand how learning languages is working for us humans, we startet out to read a bit about it. According to Ms. Birkenbihl, the way foreign languages are learned has changed little since the Bible was translated. In her research, she has spent more than thirty years studying brain-based learning and teaching and is clearly opposed to monotonous vocabulary cramming.  
-Also according to Jerome Bruner's "functionalist theory of language acquisition," language acquisition works most effectively in the form of communication.   
+In order to understand how language acquisition works, we started out to do profound/some research. According to trainer Ms. Birkenbihl, the way foreign languages are learned has changed little since the Bible was translated. In her research, she has spent more than thirty years studying brain-based learning and teaching and is clearly opposed to monotonous vocabulary cramming.  
+According to psychologist Jerome Bruner's "Functionalist Theory of Language Acquisition", learning a language works most effectively in the form of communication.   
 
 
 **Key findings:**  
-In our reserach we were talking to, Teachers, educational scientist, students and with the Ministry of Education. Here you find a selection of our main discoveries:
+In our research, we were talking we were talking to teachers, students, educational scientist as well as the Baden-Wuerttemberg Ministry of Education. Here is a selection of our main findings:
+
 - Students are already using disallowed AI translation software to do their homework.
-- Students speak too little in the foreign language.
-- Students are afraid to make mistakes and therefore say nothing at all in the foreign-language.
-- Students have too much screentime.  
+- Students often times hesitate to speak in the foreign language.
+- Students are afraid to make mistakes when speaking in the foreign language. So they rather prefer to say nothing.
+- Students spend too much time in front of the screen.
 <br>
-- Teachers see potential in new technology to motivate students.
+- Teachers see potential in new technology to better motivate students.
 - Teachers are afraid of change.
-- Are afraid to be replaced by computers. 
+- Teachers are afraid to be replaced by computers. 
 - Teachers do not want to lose control over students. 
-- Bring your own device is "no-go"
+- "Bring your own device" is a no-go motto.
 
 **Prototyping:**
 
