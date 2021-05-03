@@ -31,8 +31,8 @@ The World Happiness Report of the United Nations attempts to evaluate the well-b
 
 Each country is represented by a flower and a category by a petal. The size of a petal indicates the score of the respective country in this category (e.g. GDP in Germany). When all points are added up, a total score (ladder score) is obtained for each country. The higher the score, the larger the flower.
 
-**Colorcode**
 <img src="color.svg" alt="colorflower" width="100%"/>  <br>  
+**Colorcode**
 
 
 
