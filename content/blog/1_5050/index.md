@@ -25,8 +25,7 @@ draft: false
 ### **About the 50/50 app**  
 
 For more than 16 years, the "50/50-Taxi" has been driving young adults home safely late at night and for half the price.
-The first 50/50-Taxi app of the Ostalbkreis district was developed in April 2015. In the app, people need to register and and install an electronic authorization card on their smartphone.
-. When they get into the taxi, they show the card, activate the app and scan the QR code of the taxi's order number with their smartphone.
+The first 50/50-Taxi app of the Ostalbkreis district was developed in April 2015. In the app, people need to register and and install an electronic authorization card on their smartphone. When they get into the taxi, they show the card, activate the app and scan the QR code of the taxi's order number with their smartphone.
 
 
 ### **Final screens**  

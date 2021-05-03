@@ -46,7 +46,9 @@ UNESCO - International Commission on the Futures of Education
 
 <br>
 
-## **Our digital learning assitant Ovi supports students in learning foreign languages. Ovi does not replace the teacher, it merely serves as a useful, additional teaching tool. Apart from free conversation, Ovi also supports the active use of the specific foreign language by playful approaches such as the vocabulary duel or the interactive audio play. In order to identify the students' weaknesses and strengths, Ovi collects data from these interactions and generates data visualizations that can be viewed by both teachers and students. Thus, teachers are able to give enhanced  and individualized feedback and tailor further teaching to the students' needs. Likewise, students benefit from the visualization of their performance as it promotes independent learning.**
+**Our digital learning assitant Ovi supports students in learning foreign languages. Ovi does not replace the teacher, it merely serves as a useful, additional teaching tool. Apart from free conversation, Ovi also supports the active use of the specific foreign language by playful approaches such as the vocabulary duel or the interactive audio play.**
+
+
 <br>
 <br>
 <img src="teacher_student.png" alt="final ovi" width="100%"/>  
@@ -54,7 +56,7 @@ UNESCO - International Commission on the Futures of Education
 <br>
 <br>
 
-
+**In order to identify the students' weaknesses and strengths, Ovi collects data from these interactions and generates data visualizations that can be viewed by both teachers and students. Thus, teachers are able to give enhanced  and individualized feedback and tailor further teaching to the students' needs. Likewise, students benefit from the visualization of their performance as it promotes independent learning.**
 
 
 _____
