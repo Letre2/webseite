@@ -1,5 +1,5 @@
 +++
-title = 'Voice Interface for language learning'
+title = 'Voice Interface for Language Learning'
 slug = 'Ovi'
 date= "2019-03-15T00:00:00"
 image = 'images/Ovi/ovi_titel.png'
@@ -22,7 +22,7 @@ Jahr: 2021
 Niko Mang - Interaction Design  
 Marla Wagner - Interaction Design   -->
 
-| <h3>  **Project Info**  </h3> | <h3> **Teammates**  </h3> |
+| <h3>  **Project info**  </h3> | <h3> **Teammates**  </h3> |
 |-|-|
 | **Type:** Semester project <br> **Course**: Invention Design <br> **Faculty:** HfG Schwäbisch Gmünd <br> **Year:** 2021 <br>| **Niko Mang** - Interaction Design <br>  **Marla Wagner** - Interaction Design <br>|
 
@@ -30,7 +30,7 @@ Marla Wagner - Interaction Design   -->
 
 <!-- ### **Introducing Language learning**  -->
 
-The Corona pandemic forced the world to digitize education from one day to the next. This event could fundamentally change the way we learn and teach in the future. In this project, we set out to create a vision of how the way we learn foreign languages, starting in 5th grade, could change using new technologies. We developed, a concept for a voice-user interface supported by the latest AI technology GPT-3.
+The corona pandemic forced the world to digitize education from one day to the next. Thus, the odds are that the way we learn and teach in the future will be fundamentally changed. Our project sets itself the target to think in a future dimension and create a vision of how this future learning and teaching will look like, focussing on the acquisition of foreign languages. The aim of our voice-user interface Ovi, intended for 5th grade upwards, is to include new technologies more firmly in the learning and teaching process. We developed, a concept for a voice-user interface supported by the latest AI technology GPT-3.
 
 ***"In the context of the COVID-19 crisis interest in mobile learning technologies has grown exponentially."***  
 UNESCO - International Commission on the Futures of Education
@@ -46,7 +46,7 @@ UNESCO - International Commission on the Futures of Education
 
 <br>
 
-### **The result of the project is the digital learning assistant "Ovi" which supports students in learning foreign languages. It does not replace the teacher, it merely serves as a useful tool. In addition to free conversation, "Ovi" can also support the active use of the foreign language through playful approaches such as a "vocabulary duel" or an interactive audio play.  Ovi collects data from the interactions that take place, identifies students' weaknesses and strengths, and generates data visualizations that are made available to both teachers and students. Teachers can thus better identify weaknesses and problems and address them individually. For students, the visualization of their own performance leads to the promotion of independent learning.**
+## **Our digital learning assitant Ovi supports students in learning foreign languages. Ovi does not replace the teacher, it merely serves as a useful, additional teaching tool. Apart from free conversation, Ovi also supports the active use of the specific foreign language by playful approaches such as the vocabulary duel or the interactive audio play. In order to identify the students' weaknesses and strengths, Ovi collects data from these interactions and generates data visualizations that can be viewed by both teachers and students. Thus, teachers are able to give enhanced  and individualized feedback and tailor further teaching to the students' needs. Likewise, students benefit from the visualization of their performance as it promotes independent learning.**
 <br>
 <br>
 <img src="teacher_student.png" alt="final ovi" width="100%"/>  
@@ -68,8 +68,8 @@ _____
 
 ## **Design process**  
 
-Our process was highly influneced by the Corona pandemic. From the idea to the method of working. The whole process was executet remote. There for we where useing tools like, Miro, Zoom, Figma, Cinema4D and After Effects.  
-Unfortunetly cause of the lock-down in our region we weren't able to do some user test, but might do some in the future.  
+Our process was highly influenced by the corona pandemic: From the idea to the method of working. The whole design process was executed remotely. Therefore, we were using tools like Miro, Zoom, Figma, Cinema4D and After Effects.
+Due to the (corona) lockdown in our region, user testing was impossible. However, we look forward to realizing it further down the line. 
 
 <br> 
 
@@ -77,20 +77,20 @@ Unfortunetly cause of the lock-down in our region we weren't able to do some use
 <br>
 
 
-- **Three "F" for Gamification**  
-Friends, Feedback, Fun. Competitive elements arouse the ambition of the students. Through feedback, students learn to assess themselves and their learning behavior. 
+- **Three "F" for gamification**  
+Friends, Feedback, Fun. Competitive elements benefit the students' ambition. Given feedback, students learn to assess their learning behaviour.
 
 - **Making mistakes is okay**  
-Especially in the beginning there is no direct feedback on mistakes. The voice assistant simply repeats incorrect words in a correct manner (mothering method). This keeps students motivated.
+Especially at the beginning of using Ovi, there is no direct feedback on mistakes. The learning assistant simply repeats the mistake, though expressing it correctly (mothering method). This keeps students motivated. 
 
 - **Avoiding fear**  
-Students should not be afraid of embarrassing themselves because of mistakes.  
+Students should not be afraid of humiliating themselves because of mistakes.  
 
 - **Educational equity**  
-Everyone is provided with the technical equipment. By deliberately excluding supplementary technologies, such as smartphones, distractions are avoided and educational equity and social permeability are ensured.  
+Everyone is provided with the technical equipment. By deliberately excluding supplementary technologies such as smartphones, educational equity and social permeability are ensured.  
 
 - **Independent learning**  
-Students can view their learning progress in skill trees and thus better assess themselves.  
+skill trees. Thus, they can assess themselves in a better way./ Thus, they can more easily assess themselves.
 
 - **Relieve and strengthen teachers**  
 Teachers receive updates on learning success and insights into the performance data of individual students. This enables them to provide students with individual and group support.  
