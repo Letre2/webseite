@@ -5,6 +5,7 @@ image = 'images/DataViz/worldhappy.png'
 date= "2019-03-13T00:00:00"
 description = 'Example of post with missing date property'
 disableComments = true
+draft = false
 +++
 
 
@@ -31,7 +32,7 @@ The World Happiness Report of the United Nations attempts to evaluate the well-b
 
 Each country is represented by a flower, each category by a petal. The size of the petal indicates the score of the respective country in this category (e.g. GDP in Germany). When all points are added up, the country's total score (ladder score) is obtained. The higher the score, the larger the flower.
 
-<img src="color.svg" alt="colorflower" width="100%"/>  <br>  
+<img src="color.png" alt="colorflower" width="100%"/>  <br>  
 **Color-code**
 
 

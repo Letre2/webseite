@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog on Interaction Design by Tobias Ertel</title>
+    <link>https://www.tobias-ertel.de/blog/</link>
+    <description>Recent content in My Blog on Interaction Design by Tobias Ertel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.tobias-ertel.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redesign Taxi App</title>
+      <link>https://www.tobias-ertel.de/blog/5050/</link>
+      <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tobias-ertel.de/blog/5050/</guid>
+      <description>Project info   Teammates      Type: Semester project - Execution time 2 months
+Course: Application Design - Rebecca Schellhorn Faculty: HfG Schwäbisch Gmünd Year: 2020  Niko Mang - Interaction Design Marla Wagner - Interaction Design Luzie Funk - Interaction Design    In the course Application Design the challenge was to redesign a smartphone application. The goal of the course was to apply basic user-centered methods, iterative product development, prototyping and design in the mobile usage context.</description>
+    </item>
+    
+    <item>
+      <title>Voice Interface for Language Learning</title>
+      <link>https://www.tobias-ertel.de/blog/ovi/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tobias-ertel.de/blog/ovi/</guid>
+      <description>Language Learning with Ovi     Project info   Teammates      Type: Semester project Course: Invention Design Faculty: HfG Schwäbisch Gmünd Year: 2021  Niko Mang - Interaction Design Marla Wagner - Interaction Design     The corona pandemic forced the world to digitize education from one day to the next. Thus, the odds are that the way we learn and teach in the future will be fundamentally changed.</description>
+    </item>
+    
+    <item>
+      <title>Humus - Exhibition Design</title>
+      <link>https://www.tobias-ertel.de/blog/humus/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tobias-ertel.de/blog/humus/</guid>
+      <description>Project info   Teammates      Type: Semester project - Execution time 2 months
+Course: Interactive communication system by Farbian Schröbel Faculty: HfG Schwäbisch Gmünd Year: 2020  Felix Haeberle - Interaction Design Zacharie Reifegerst - Interaction Design     Exhibit on Humus - an important part of our soil
+Humus is understood to be the upper 30 to 40 cm of the soil.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization with Constraints</title>
+      <link>https://www.tobias-ertel.de/blog/dataviz/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tobias-ertel.de/blog/dataviz/</guid>
+      <description>Project info       Type: Semester project - Execution time 2 months
+Course: Generative design Faculty: HfG Schwäbisch Gmünd Year: 2020       Take a closer look at my data design project here!
+Interaction
+Single click - change the view Double click - next view Scroll - zoom in/out Working with constraints - In this project, the constraints were to design and code a data visualization without using any alphanumeric characters (text, numbers) or pictorial elements.</description>
+    </item>
+    
+    <item>
+      <title>Querweltein - Personal Project</title>
+      <link>https://www.tobias-ertel.de/blog/querweltein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tobias-ertel.de/blog/querweltein/</guid>
+      <description>Project info   Teammates      Type: Personal project Publisher: Knesebeck Edition: 5000 pcs Year: 2021  Pia Wieland - Graphic Design    Our sustainability guidebook focuses entirely on environmentally friendly traveling.Twenty travel adventures of varying length show that there are more and especially more eco-friendly ways than traveling by air. The solution is: traveling over land water, like hiking, cycling or sailing.</description>
+    </item>
+    
+  </channel>
+</rss>
