@@ -14,7 +14,7 @@ disqusShortname = "Tobias Ertel"
   copyright = "© Tobias Ertel. All rights reserved."
   design = "Design by Tobias Ertel"
   mainSections = ["blog"]
-  custom_js = ["js/sketch.js"]
+  # custom_js = ["js/sketch.js"]
 
 
 [permalinks]
