@@ -11,7 +11,7 @@ jobs:
         id: project
         with:
           api-key: ${{ secrets.IONOS_API_KEY }}
-          project: 63cd2798-d3e6-4dfb-8068-b68ceb47026d
+          project: a84fc7b4-5228-4403-8100-e7067f9dfb71
           service-host: api-eu.ionos.space
       - name: checkout
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
@@ -22,11 +22,11 @@ jobs:
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
         uses: peaceiris/actions-hugo@v2
         with:
-          extended: true
           hugo-version: '0.74.3'
+          extended: true
       - name: Build Hugo project
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
-        run: hugo --gc --minify
+        run: hugo --gc -D
       - name: Deploy to IONOS
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
         uses: ionos-deploy-now/deploy-to-ionos-action@v1
@@ -37,4 +37,4 @@ jobs:
           api-key: ${{ secrets.IONOS_API_KEY }}
           remote-host: ${{ steps.project.outputs.remote-host }}
           dist-folder: public
-          project: 63cd2798-d3e6-4dfb-8068-b68ceb47026d
+          project: a84fc7b4-5228-4403-8100-e7067f9dfb71
