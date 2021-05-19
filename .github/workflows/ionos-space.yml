@@ -1,0 +1,40 @@
+name: IONOS.space
+
+on: [push]
+
+jobs:
+  ionos-space:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get Ionos Project data
+        uses: ionos-deploy-now/retrieve-project-info-action@v1
+        id: project
+        with:
+          api-key: ${{ secrets.IONOS_API_KEY }}
+          project: da5a16e1-3ecb-455d-8ac9-190695dc75bc
+          service-host: api-eu.ionos.space
+      - name: checkout
+        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+      - name: Setup Hugo
+        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        uses: peaceiris/actions-hugo@v2
+        with:
+          extended: true
+          hugo-version: '0.74.3'
+      - name: Build Hugo project
+        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        run: hugo --gc --minify -b ${{ steps.project.outputs.site-url }}
+      - name: Deploy to IONOS
+        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        uses: ionos-deploy-now/deploy-to-ionos-action@v1
+        with:
+          storage-quota: ${{ steps.project.outputs.storage-quota }}
+          branch-id: ${{ steps.project.outputs.branch-id }}
+          service-host: api-eu.ionos.space
+          api-key: ${{ secrets.IONOS_API_KEY }}
+          remote-host: ${{ steps.project.outputs.remote-host }}
+          dist-folder: public
+          project: da5a16e1-3ecb-455d-8ac9-190695dc75bc
