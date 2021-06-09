@@ -28,7 +28,7 @@ Humus plays a vital role in our ecosystem and can therefore make an impact on ou
 <br>  
 <br>  
 
-<a href="https://kind-visvesvaraya-a7b656.netlify.app/" target="_blank">You can find our final prototype here (German)</a>
+<a href="https://savehumus.netlify.app/" target="_blank">You can find our final prototype here (German)</a>
 ****
 
 
